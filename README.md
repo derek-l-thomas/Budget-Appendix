@@ -1,4 +1,4 @@
-# Budget Appendix to FPWA Analysis of President Trump's FY 2020 Budget Proposal
+# Budget Appendix to "*FPWA Analysis of President Trump's FY 2020 Budget Proposal*"
 ### Published on Tuesday, April 23, 2019
 
 **Citations**
