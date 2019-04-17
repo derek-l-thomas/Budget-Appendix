@@ -7,7 +7,7 @@
 1. 8% increase only to SNAP Admin.
 1. Community Development Block Grant funding excludes disaster relief funds. Housing for Persons with Disabilities includes $82.6 million in FY 2018 and $30.2 million in FY 2019 for Olmstead decision compliance.
 1. Page 5: https://www.justice.gov/jmd/page/file/1142326/download
-1. Applied "Aging Grants to States" cuts to all OAA grants from FFIS's "Major Discretionary and Mandatory" PDF (DOES NOT Iinclude SCSEP according to Swiss Cheese)
+1. Applied "Aging Grants to States" cuts to all OAA grants from FFIS's "Major Discretionary and Mandatory" PDF
 1. This program does not receive funding, rather it provides participating states with additional flexibility in using discretionary funds across multiple federal programs
 1. Page 136: https://www.hhs.gov/sites/default/files/fy-2020-budget-in-brief.pdf
 1. The NSIP amounts for FY 2020 will be determined at a later date. Page 32-142: https://www.obpa.usda.gov/32fns2020notes.pdf
