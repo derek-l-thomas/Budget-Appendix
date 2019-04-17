@@ -1,5 +1,5 @@
-## Budget Appendix to "*FPWA Analysis of President Trump's FY 2020 Budget Proposal*"
-### Published on Tuesday, April 23, 2019
+### Budget Appendix to "*FPWA Analysis of President Trump's FY 2020 Budget Proposal*"
+#### Published on Tuesday, April 23, 2019
 
 The data in the appendix can be used in tandem with other [uploaded datasets](https://github.com/derek-l-thomas). 
 * For example, to see how President Trump's FY 2020 Budget Proposal would impact ACS's FY 2019 Adopted Budget federal funding use the [ACS-19-Adopted](https://github.com/derek-l-thomas/ACS-19-Adopted) dataset.
