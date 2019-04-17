@@ -1,6 +1,7 @@
 # Budget Appendix to "*FPWA Analysis of President Trump's FY 2020 Budget Proposal*"
 ### Published on Tuesday, April 23, 2019
 
+
 **Citations**
 
 1. Under the Budget Control Act, mandatory programs subject to sequestration receive an automatic reduction of -6.6% in FY 2018 and -6.2% in FY 2019. The FY 2020 percentage reduction has not been released; FFIS assumes the FY 2019 reduction. On this table, the cuts apply to Special Milk (Child Nutrition), PSSF, SSBG, Vocational Rehabilitation, and a portion of highway funding exempt from obligation limitation.
